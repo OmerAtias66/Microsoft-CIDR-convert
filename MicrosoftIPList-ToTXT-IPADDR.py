@@ -1,3 +1,4 @@
+# Built by Omer Atias
 import requests
 from bs4 import BeautifulSoup
 import re
